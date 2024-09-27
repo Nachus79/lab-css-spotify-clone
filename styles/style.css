@@ -137,6 +137,18 @@ h3 {
     line-height: 1.5;
 }
 
+#textoFinal h2 {
+
+    text-decoration: underline;
+
+}
+
+#imagenCentral {
+    width: 100px; 
+
+}
+
+
 #spotify-player {
     width: 300px;
 }
